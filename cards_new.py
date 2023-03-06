@@ -87,7 +87,6 @@ shuffle = False
 # print(deck2)
 # print(deck1 == deck2)
 # print(deck1.__sub__((7, 'clubs♣')))
-# print(deck1.show_cards())
 # print(type(deck1))
 # print(deck1.__len__())
 # print(deck1.__bool__())
